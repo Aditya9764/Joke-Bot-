@@ -25,6 +25,9 @@ Once you've opened the application in a web browser, it will fetch a joke and di
 Contributions to improve the application or add new features are always welcome! If you'd like to contribute, feel free to create a pull request.
 
 
+![Screenshot 2023-10-03 141939](https://github.com/Aditya9764/Joke-Bot-/assets/90107321/26610139-2b07-4af8-92cc-afeb34786cd9)
+
+
 ## Author
 
 - Aditya Santosh Kaspe
