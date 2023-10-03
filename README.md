@@ -29,6 +29,7 @@ Contributions to improve the application or add new features are always welcome!
 
 - Aditya Santosh Kaspe
 
----
+---![screenshot](https://github.com/Aditya9764/Joke-Bot-/assets/90107321/35b5957a-06ec-477b-8067-91f235d0c243)
+
 
 Have a laugh with the Joke-Bot Web App! 😄
